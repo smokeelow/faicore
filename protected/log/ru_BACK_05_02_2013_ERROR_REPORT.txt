@@ -1,0 +1,2 @@
+/admin/ru/rmos/lorgs	404	Невозможно обработать запрос "lorgs/index".	05.02.2013 07:38:52	192.168.85.1	Chrome	24.0.1312.57	Windows	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.17 (KHTML, like Gecko) Chrome/24.0.1312.57 Safari/537.17
+/admin/ru/rmors/news	404	Невозможно обработать запрос "admin/ru/rmors/news".	05.02.2013 07:38:58	192.168.85.1	Chrome	24.0.1312.57	Windows	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.17 (KHTML, like Gecko) Chrome/24.0.1312.57 Safari/537.17

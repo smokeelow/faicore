@@ -1,0 +1,40 @@
+//Property 1 [-1 (None), 0 (ice), 1 (Poison), 2 (Lightning), 3 (Fire), 4 (Earth), 5 (Wind), 6 (water)]
+//Property 2 [-1 (None), 0 (Physics), 1 (magic)]
+//Brand [requires specific skills, but can be used]
+//Use Type [[0 (general skills), 1 (job skills), 3 (Master Level: passive), 4 (Master Level: Active)]
+//Skill Type(from Season4) [0 (general skills), 1 (buff: beneficial effects to ours), 2 (damage: harmful effects to the enemy), 3 (treatment: recovery destination)]
+
+1.Index
+2.Name
+3.Level
+4.Damage
+5.Mana
+6.Agility
+7.Distance
+8.Delay
+9.Energy
+10.Level
+11.Prop1
+12.Prop2
+13.UseType
+14.Brand
+15.Count
+16.Status
+17.Status
+18.Status
+19.DW
+20.DK
+21.ELF
+22.MG
+23.DL
+24.SUM
+25.NewPJ
+26.Rank
+27.Group
+28.MasterP
+29.Stamina
+30.CostSD
+31.??
+32.Agility
+33.Number
+34.Type

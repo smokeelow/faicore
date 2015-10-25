@@ -1,0 +1,5 @@
+<Files *.txt>
+    Order deny,allow
+    Deny from all
+</Files>
+deny from all

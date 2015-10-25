@@ -1,0 +1,35 @@
+#################
+#[0]UID         #
+#[1]TYPE        #
+#[2]ID          #
+#[3]X           #
+#[4]Y           #
+#[5]NAME        #
+#[6]EXE_TYPE    #
+#[7]SKILL       #
+#[8]HAS_LVL     #
+#[9]HAS_OPT     #
+#[10]LUCK       #
+#[11]STICK_LVL  #
+#[12]DMGMIN     #
+#[13]DMGMAX     #
+#[14]SPEED      #
+#[15]DEF        #
+#[16]DEF_RATE   #
+#[17]DURABILITY #
+#[18]REQ_LVL    #
+#[19]REQ_STR    #
+#[20]REQ_AGI    #
+#[21]REQ_ENE    #
+#[22]REQ_VIT    #
+#[23]REQ_COM    #
+#[24]DW         #
+#[25]DK         #
+#[26]ELF        #
+#[27]MG         #
+#[28]DL         #
+#[29]SUM        #
+#[30]RF         #
+#[31]ANC1       #
+#[32]ANC2       #
+#################

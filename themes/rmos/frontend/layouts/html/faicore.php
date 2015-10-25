@@ -1,0 +1,1 @@
+<div class="dev-faicore"><?php echo Yii::t(''.Yii::app()->request->cookies['language']->value.'', 'Developed by'); ?> <a target="_blank" href="http://faicore.com/">faicore.com</a></div>

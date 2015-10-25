@@ -1,0 +1,72 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+
+@font-face{
+    font-family: Seg;
+    src: url(../fonts/segoeuil.eot);
+    src: url(../fonts/segoeuil.ttf),
+         url(../fonts/segoeuil.wof),
+         url(../fonts/segoeuil.svg);
+
+}
+
+html{
+    height: 100%;
+    -webkit-font-smoothing: antialiased;
+}
+
+::selection {color:#fff; background: #a774ff;}
+
+body{
+    font-family: Seg;
+    color: #999;
+    background: #fff;
+
+}
+
+li{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+    color:#A56CF8;
+    -webkit-transition: color 250ms ease-in-out, background 100ms ease-in-out, border 150ms ease-in-out, opacity 150ms ease-in-out;
+    -moz-transition: color 200ms ease-in-out, background 100ms ease-in-out, border 150ms ease-in-out, opacity 150ms ease-in-out;
+    -ms-transition: color 200ms ease-in-out, background 100ms ease-in-out, border 150ms ease-in-out, opacity 150ms ease-in-out;
+    -o-transition: color 200ms ease-in-out, background 100ms ease-in-out, border 150ms ease-in-out, opacity 150ms ease-in-out;
+    transition: color 200ms ease-in-out, background 100ms ease-in-out, border 150ms ease-in-out, opacity 150ms ease-in-out;
+}
+
+a:hover{
+    color:#fff;
+    background: #A56CF8;
+}
+
+#wrapper{
+    position: relative;
+    width: 90%;
+    max-width: 1280px;
+    margin: 30px auto;
+    background: white;
+    min-height:300px;
+}
+
+#header{
+    width: 100%;
+}
+
+#main-page-form{
+    margin:40px 0;
+    text-align: center;
+}
+
+.clear{
+    clear:both;
+}
+
+#footer{
+    width: 100%;
+}
